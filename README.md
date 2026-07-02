@@ -1,6 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Rebirth100
 
+> 🚀 A passionate developer exploring the world of code, one commit at a time.
 
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages**: Python | C/C++ | JavaScript | HTML/CSS
+- **Tools**: Git | GitHub Actions | VS Code | Hexo
+- **Learning**: HarmonyOS (ArkTS) | Full-stack Development | AI Model Integration
+
+---
+
+### 📊 GitHub 3D Contribution Map
 <p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-green-animate.svg" />
@@ -9,18 +20,33 @@
 	</picture>
 </p>
 
+---
 
-<!--
-**Rebirth100/Rebirth100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebirth100&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebirth100&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rebirth100&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently Learning
+- 🔭 Deep diving into **C/C++ memory management & compilation principles**
+- 🌱 Building personal projects with **Hexo + Anzhiyu theme**
+- 🤖 Exploring **AI model API integration** (e.g., Xiaomi Token, QClaw)
+
+---
+
+### 📫 Connect with Me
+- GitHub: [@Rebirth100](https://github.com/Rebirth100)
+- Blog: [Your Blog Link] (replace with your actual blog URL)
+- Email: [your.email@example.com] (replace with your actual email)
+
+---
+
+### ⚡ Fun Fact
+> I love retro games and once tried to remake *Dream of Journey to the West* in my spare time! 🎮
