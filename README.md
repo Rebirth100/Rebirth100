@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-night-view.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-gitblock.svg" />
+	  <img src="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-gitblock.svg" alt="My 3D GitHub Contributions" />
+	</picture>
+</p>
+
+
 <!--
 **Rebirth100/Rebirth100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
