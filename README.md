@@ -43,8 +43,8 @@
 
 ### 📫 Connect with Me
 - GitHub: [@Rebirth100](https://github.com/Rebirth100)
-- Blog: [Your Blog Link] (replace with your actual blog URL)
-- Email: [your.email@example.com] (replace with your actual email)
+- Blog: [https://rebirth100.github.io/]
+- Email: [3518231079@qq.com]
 
 ---
 
