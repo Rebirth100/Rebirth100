@@ -3,8 +3,8 @@
 
 <p align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-night-view.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-gitblock.svg" />
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-green-animate.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-night-green.svg" />
 	  <img src="https://raw.githubusercontent.com/Rebirth100/Rebirth100/main/profile-3d-contrib/profile-gitblock.svg" alt="My 3D GitHub Contributions" />
 	</picture>
 </p>
