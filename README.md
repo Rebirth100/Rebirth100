@@ -22,18 +22,6 @@
 
 ---
 
-### 📈 GitHub 数据统计
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebirth100&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=cn" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebirth100&layout=compact&theme=dark&hide_border=true&locale=cn" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rebirth100&theme=dark&hide_border=true&locale=cn" alt="GitHub 连续提交统计" />
-</p>
-
----
-
 ### 🌱 正在学习
 - 🔭 深入钻研 **C/C++ 内存管理与编译原理**
 - 🌱 基于 **Hexo + Anzhiyu 主题** 搭建个人博客
